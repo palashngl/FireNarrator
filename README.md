@@ -87,8 +87,8 @@ If you use FireNarrator in your research, please cite:
 ```bibtex
 @inproceedings{ingle2025firenarrator,
   title={FireNarrator: A Multimodal Fire Incident Reporting Framework with Sensor Fusion and LLMs},
-  author={Ingle, Palash Yuvraj and Amael, Joshua Tito and Kim, Young Gab},
-  booktitle={Proceedings of the IEEE International Conference},
+  author={Ingle, Palash Yuvraj and Amael, Young Gab},
+  booktitle={Under Review},
   year={2025}
 }
 ```
