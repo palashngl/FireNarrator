@@ -98,8 +98,6 @@ If you use FireNarrator in your research, please cite:
 ## 🤝 Contributors
 
 - [Palash Yuvraj Ingle](mailto\:palash@sejong.ac.kr)
-- [Prof. Young Gab-Kim](mailto\:alwaysgabi@sejong.ac.kr)
-
 ---
 
 ## 📌 License
